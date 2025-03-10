@@ -1,0 +1,27 @@
+1.O que é um repositório no Git e qual a sua importância?
+    Um repositório no Git, serve como um local para salvar e compartilhar cada fase dos projetos feitos. É importante para registrar as alterações em um projeto, podendo voltar em "versões" anteriores. 
+2.Qual a função do Git Bash?
+    O git bash nos permite versionar os projetos, interpretando os comandos para o Git.
+3.O que faz o comando git add e qual a diferença entre git add <arquivo> e git add .?
+    O comado git add serve para adicionar os arquivos para commit, "<arquivo>" adiciona um arquivo específico, "add ." adiciona todo o conteúdo dentro da pasta.
+4.Por que utilizamos o ponto (.) no comando git add .?
+    O ponto refere-se a todo o conteúdo que está na pasta.
+5.Explique o comando git commit e por que é importante criar uma mensagem descritiva.
+    Serve para registrar as adições feitas, a mensagem é importante para a descrição do que está sendo feito no commit, assim podendo entender melhor as mudanças feitas.
+6.Qual a função do comando git push?
+    Tem a função de enviar o último commit feito para o repositório.
+7.Qual a importância de criar commits frequentes durante o desenvolvimento de um projeto?
+    É importante para salvar cada alteração feita no projeto, caso necessário permitindo voltar a versões anteriores.  
+8.Explique a função das tags HTML e como elas estruturam uma página.
+    Tem uma função de semântica, dando significado para o conteúdo inserido dentro da tag. Esse significado que define a estrutura podendo saber por exemplo o que faz parte do cabeçalho, conteúdo principal, etc.
+9.O que são atributos em uma tag HTML e qual a sua função?
+    Os atributos podem mudar o comportamento da tag
+10.O que é o Emmet e como ele facilita o desenvolvimento de páginas HTML?
+11.O que é o box-sizing no CSS e por que usamos ele no reset inicial?
+12.Por que é importante utilizar tags semânticas no HTML?
+13.O que são media queries no CSS e qual a sua função?
+14.Qual a função do GitHub Pages?
+15.O que é o Flexbox no CSS e para que ele é utilizado?
+16.Qual a diferença entre justify-content e align-items em um container Flexbox?
+17.Como o flex-grow funciona e qual o seu propósito no layout Flexbox?
+18.Explique a diferença entre flex-direction: column; e flex-direction: row;.
